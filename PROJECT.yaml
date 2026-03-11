@@ -1,5 +1,6 @@
-id: 1efc97a8-80f6-4434-8d04-f2ef33966d94
 name: cost-cloud
+project_scope: main
+project_type: standalone
 description: React + TypeScript + Vite
 tier: prototype
 lane: oss
@@ -9,5 +10,6 @@ stack: [typescript, react, convex, tailwind, vite]
 repo: "https://github.com/mxn2020/cost-cloud"
 deploy_url: null
 last_active: 2026-02-25
-tags: []
-notes: 
+tags: [cloud, costs, optimization, aws, gcp, azure, monitoring]
+notes: null
+id: 1efc97a8-80f6-4434-8d04-f2ef33966d94
