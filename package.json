@@ -46,7 +46,7 @@
   },
   "description": "Cloud cost analysis and optimization dashboard",
   "author": "Mehdi Nabhani",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "cost",
     "cloud",
